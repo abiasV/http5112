@@ -1,6 +1,6 @@
-## Intro Web Development
+## Web Development lab
 
-![Intro Web Development1](_readme/Web-Development-Lab1.jpg )
+![Web Development lab](_readme/Web-Development-Lab1.jpg )
 
 
 ## Description
@@ -13,7 +13,7 @@ Instructor: Jemi Choi (jemi.choi@humber.ca)
 ### Please read carefully
 
 > [!IMPORTANT]  
-This Course is Asp.net & DB
+This lesson includes ASP.net and DataBase
 
 > [!WARNING]
 If you do not attend classes regularly, you will miss.
